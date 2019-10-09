@@ -14,7 +14,8 @@ public class Check_if_Prime_or_no {
 
 		System.out.println(isPrimeNumber(39857));
 	}
-
+// comment
+	
 	public static boolean isPrimeNumber(int number) {
 		if (number <= 1) {
 			return false;
